@@ -5,15 +5,10 @@ Overview
 This project is an end-to-end data analytics case study on customer shopping behavior. It covers data loading, exploratory data analysis (EDA), data cleaning, SQL-based business analysis, dashboard creation in Power BI, and final storytelling through a written report and presentation.
 ​
 
-Dataset
-~3,900 purchase records across multiple product categories
-
-~18 features including:
-
+Dataset: 3,900 purchase records across multiple product categories
+18 features including:
 Customer demographics (age, gender, location, subscription status)
-
 Transaction details (item, category, amount, season, size, color)
-
 Behavior signals (discount applied, previous purchases, review rating, shipping type)
 ​
 
