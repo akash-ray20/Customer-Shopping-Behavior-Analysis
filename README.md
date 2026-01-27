@@ -1,7 +1,7 @@
 # Customer-Shopping-Behavior-Analysis
 A complete end-to-end analytics project on customer shopping behavior using Python, SQL and Power BI. Covers data cleaning, feature engineering, cohort analysis, segmentation, and interactive dashboards to derive actionable insights on revenue, loyalty, and subscriptions.
 
-Overview
+Overview:
 This project is an end-to-end data analytics case study on customer shopping behavior. It covers data loading, exploratory data analysis (EDA), data cleaning, SQL-based business analysis, dashboard creation in Power BI, and final storytelling through a written report and presentation.
 ​
 
